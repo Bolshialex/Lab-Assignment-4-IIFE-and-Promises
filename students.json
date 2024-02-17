@@ -1,0 +1,94 @@
+{
+    "students": [
+        {
+            "name": "Annabella Morse",
+            "grade": "3.48",
+            "major": "Computer Science",
+            "age": 22
+        },
+        {
+            "name": "Mila Barajas",
+            "grade": "3.42",
+            "major": "Software Engineering",
+            "age": 23
+        },
+        {
+            "name": "Lilly Atkins",
+            "grade": "3.667",
+            "major": "Data Science",
+            "age": 21
+        },
+        {
+            "name": "Ian Mcdaniel",
+            "grade": "2.85",
+            "major": "Cloud Computing",
+            "age": 24
+        },
+        {
+            "name": "Rylee Rich",
+            "grade": "3.77",
+            "major": "Artificial Intelligence",
+            "age": 22
+        },
+        {
+            "name": "Alayna Bautista",
+            "grade": "3.61",
+            "major": "Cybersecurity",
+            "age": 23
+        },
+        {
+            "name": "Violet Lutz",
+            "grade": "3.934",
+            "major": "Robotics",
+            "age": 21
+        },
+        {
+            "name": "Antony Burns",
+            "grade": "3.273",
+            "major": "Software Development",
+            "age": 24
+        },
+        {
+            "name": "Emmanuel Skinner",
+            "grade": "2.91",
+            "major": "Network Engineering",
+            "age": 22
+        },
+        {
+            "name": "Fletcher Jacobs",
+            "grade": "3.263",
+            "major": "Database Management",
+            "age": 23
+        },
+        {
+            "name": "Nicolas Blair",
+            "grade": "3.912",
+            "major": "IT Manager",
+            "age": 21
+        },
+        {
+            "name": "Claire Mullen",
+            "grade": "3.151",
+            "major": "Web Development",
+            "age": 24
+        },
+        {
+            "name": "Helena Collins",
+            "grade": "3.52",
+            "major": "Machine Learning",
+            "age": 22
+        },
+        {
+            "name": "Brylee Herrera",
+            "grade": "2.923",
+            "major": "Information Technology",
+            "age": 23
+        },
+        {
+            "name": "Ramon Huerta",
+            "grade": "3.64",
+            "major": "Computer Engineering",
+            "age": 21
+        }
+    ]
+}
