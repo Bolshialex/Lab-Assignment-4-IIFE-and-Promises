@@ -17,3 +17,16 @@ li{
     min-height: 500px;
     margin: 50px;
 }
+
+button{
+    margin: 10px 45px;
+    border: solid black 3px;
+    background-color: rgb(255, 252, 73);
+    font-size: 34px;
+    border-radius: 15px;
+    font-family: 'Cabin',Arial, Helvetica, sans-serif;
+}
+button:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
