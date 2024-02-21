@@ -10,6 +10,9 @@ li{
     margin: 15px;
     text-align: left;
 }
+p{
+    font-size: 30px;
+}
 
 .container-card{
     border: solid black 5px;
@@ -21,12 +24,16 @@ li{
 button{
     margin: 10px 45px;
     border: solid black 3px;
-    background-color: rgb(255, 252, 73);
-    font-size: 34px;
+    background-color: rgb(255, 255, 255);
+    font-size: 25px;
     border-radius: 15px;
     font-family: 'Cabin',Arial, Helvetica, sans-serif;
 }
 button:hover{
-    transform: scale(1.1);
-    transition: 0.5s;
+    transition: 0.3s;
+    background-color: rgb(255, 0, 0);
+
+}
+button:active{
+    transform: scale(0.98);
 }
